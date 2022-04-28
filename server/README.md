@@ -1,6 +1,6 @@
-#### To Do App Assignment
+# Todo App Server Side
 
-## Please follow the below steps to run the backend project
+### Please follow the below steps to run the project
 
 1.  Run command "npm install" on your terminal.
 2.  Run command "npm run dev" on your terminal to start the app.
@@ -21,20 +21,3 @@
 
 1. Run command "npm install" on your terminal if not already done in previous steps.
 2. Run command "npm run lint"
-
-### Please follow the below steps to run the client side project
-
-To run the project follow below commands
-
-## `npm install`
-
-Installs all the dependencies
-
-## `npm run start`
-
-Runs the app in the development mode.<br />
-Open (http://localhost:3000) to view it in the browser.
-
-## `npm run test`
-
-Launches the test runner in the interactive watch mode.<br />
