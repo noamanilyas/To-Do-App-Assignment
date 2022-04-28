@@ -1,5 +1,7 @@
 # To Do App Assignment
 
+<img src="client/public/todoappscreen.png" width="700"/>
+
 ## Please follow the below steps to run the backend project
 
 1.  Run command "npm install" on your terminal.
