@@ -1,6 +1,6 @@
 # To Do App Assignment
 
-<img src="client/public/todoappscreen.png" width="700"/>
+<img src="client/public/todoappscreen.png" width="450"/>
 
 ## Please follow the below steps to run the backend project
 
