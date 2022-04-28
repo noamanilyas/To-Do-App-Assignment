@@ -1,4 +1,4 @@
-#### To Do App Assignment
+# To Do App Assignment
 
 ## Please follow the below steps to run the backend project
 
@@ -22,19 +22,14 @@
 1. Run command "npm install" on your terminal if not already done in previous steps.
 2. Run command "npm run lint"
 
-### Please follow the below steps to run the client side project
+## Please follow the below steps to run the client side project
 
-To run the project follow below commands
+1.  Run command "npm install" on your terminal.
+2.  Run command "npm run start" on your terminal to start the app.
+2.  Goto 'localhost:3000' to view the app.
 
-## `npm install`
+### Testing
 
-Installs all the dependencies
-
-## `npm run start`
-
-Runs the app in the development mode.<br />
-Open (http://localhost:3000) to view it in the browser.
-
-## `npm run test`
-
-Launches the test runner in the interactive watch mode.<br />
+1.  Run command "npm install" on your terminal if not already done in previous steps.
+2.  Run command "npm run test" to run testing.
+3.  Test results will be logged on your console.
