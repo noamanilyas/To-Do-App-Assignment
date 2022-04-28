@@ -25,16 +25,6 @@ export async function getAllTodos(req: Request, res: Response): Promise<void> {
 
 export async function createTodo(req: Request, res: Response): Promise<void> {
   try {
-    // const { body } = req;
-
-    // const schema = Joi.object().keys({
-    //   name: Joi.string().required(),
-    // });
-    // const { error } = schema.validate(body);
-    // if (error) {
-    //   throw new ValidationError("Invalid request, Some parameters are missing or incorrect.");
-    // }
-
     const randNum = Math.floor(Math.random() * 10);
 
     const document = {

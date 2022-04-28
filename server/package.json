@@ -1,7 +1,7 @@
 {
-  "name": "userhobbies",
+  "name": "todoapp",
   "version": "1.0.0",
-  "description": "User Hobbies Rest API Implementation",
+  "description": "ToDo App Rest API Implementation",
   "main": "index.js",
   "scripts": {
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
