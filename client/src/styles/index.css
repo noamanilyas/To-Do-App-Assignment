@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: monospace;
+  color: rgb(43, 42, 42);
+  background: rgb(224, 224, 224);
+}
+
+.app {
+  max-width: 1224px;
+  margin: 4rem auto;
+}
+
+.app > h1 {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #313131;
+}
+
+.card-text-div h1 {
+  color: #014c87;
+}
+
+.card-button-div button {
+  background: #f5f6f7;
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+}
+
+.button-delete {
+  border: 1px solid #ca0000;
+  color: #ca0000;
+}
+
+.button-done {
+  border: 1px solid #00aa69;
+  color: #00aa69;
+  margin-right: 1rem;
+}
+
+.button-notdone {
+  border: 1px solid #777;
+  color: #777;
+  margin-right: 1rem;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.top-section > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-section input {
+  font-size: medium;
+  background: #f5f6f7;
+  padding: 0.5rem 1rem;
+  border: 1px solid #014c87;
+  border-radius: 10px;
+  display: block;
+  margin: 0.3rem 1rem 0 0;
+}
+
+.top-section button {
+  background: #014c87;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.line-through {
+  text-decoration: line-through;
+  color: #777 !important;
+}
+
+.hide-button {
+  display: none;
+}
